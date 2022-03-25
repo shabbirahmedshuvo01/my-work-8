@@ -1,0 +1,56 @@
+[
+    {
+        "id": "623781a1d7c2cf5eee89c9de1",
+        "price": 48900,
+        "name": "Lenevo",
+        "img": "https://img.freepik.com/free-photo/female-hand-typing-keyboard-laptop_1150-15742.jpg?t=st=1648234947~exp=1648235547~hmac=148f5c9ec13be2b68a9e055e0f4c70dc80f0e3cd41bd5f2eb746e7d485cf4f94&w=740"
+    },
+    {
+        "id": "623781a1730acfaeee92b9b42",
+        "price": 53900,
+        "name": "Asus",
+        "img": "https://img.freepik.com/free-photo/flying-laptop-mobile-tablet-3d-rendering-showing-builder-website-responsive-web-design_72104-3280.jpg?w=826"
+    },
+    {
+        "id": "623781a151199ed084eae6a33",
+        "price": 23500,
+        "name": "Hp",
+        "img": "https://img.freepik.com/free-photo/portrait-cheerful-young-man-plaid-shirt_171337-37519.jpg?w=740"
+    },
+    {
+        "id": "623781a1e79fafcd193ca1d04",
+        "price": 17600,
+        "name": "II Htc",
+        "img": "https://img.freepik.com/free-photo/portrait-smiling-handsome-man-eyeglasses_171337-4853.jpg?w=740"
+    },
+    {
+        "id": "623781a1d6f579bbd6ca6deb5",
+        "price": 18500,
+        "name": "Esonic",
+        "img": "https://img.freepik.com/free-photo/portrait-smiling-handsome-man-holding-laptop_171337-12003.jpg?w=740"
+    },
+    {
+        "id": "623781a1d6f579bbd6ca6deb6",
+        "price": 10585,
+        "name": "Acer",
+        "img": "https://img.freepik.com/free-photo/smiling-satisfied-man-30s-wearing-white-shirt-sitting-table-office-having-business-chat-silver-laptop_171337-39382.jpg?w=740"
+    },
+    {
+        "id": "623781a1d6f579bbd6ca6deb7",
+        "price": 80000,
+        "name": "Samsung",
+        "img": "https://img.freepik.com/free-psd/full-screen-smartphone-laptop-mockup-design_136295-391.jpg?t=st=1648234937~exp=1648235537~hmac=7182daf1cf9dc753e4239642cab69b0155aae4b4db968f7ae053377184a50640&w=740"
+    },
+    {
+        "id": "623781a1d6f579bbd6ca6deb8",
+        "price": 58500,
+        "name": "RGB Rog",
+        "img": "https://img.freepik.com/free-psd/full-screen-smartphone-laptop-mockup-design_136295-561.jpg?w=740"
+    },
+    {
+        "id": "623781a1d6f579bbd6ca6deb9",
+        "price": 50805,
+        "name": "Linear",
+        "img": "https://img.freepik.com/free-psd/laptop-screen-mockup_253059-274.jpg?w=826"
+    }
+]
