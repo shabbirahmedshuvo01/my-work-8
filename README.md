@@ -1,5 +1,5 @@
 ## Lucy-one-assingment
-live site link(https://app.netlify.com/sites/dainty-flan-cec214/overview)
+live site link(https://dainty-flan-cec214.netlify.app/)
 
 
 
