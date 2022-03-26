@@ -3,3 +3,23 @@
     top: 0;
     padding: 30px 40px;
 }
+.btn-random{
+    background-color: palegoldenrod;
+    width: 80px;
+    height: 30px;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+.btn-random:hover{
+    background-color: yellowgreen;
+}
+.btn-reset{
+    background-color: coral;
+    width: 80px;
+    height: 30px;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+.btn-reset:hover{
+background-color: brown ;
+}
