@@ -1,14 +1,3 @@
-# Lucy-one-assingment
-live site link(https://web.programming-hero.com/web-5/video/web-5-23_5-1-understand-for-loop-in-a-forward-and-reverse-way)
-
-
-
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
