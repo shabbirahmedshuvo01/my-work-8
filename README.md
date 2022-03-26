@@ -1,5 +1,5 @@
 ## Lucy-one-assingment
-live site link(https://web.programming-hero.com/web-5/video/web-5-23_5-1-understand-for-loop-in-a-forward-and-reverse-way)
+live site link(https://app.netlify.com/sites/dainty-flan-cec214/overview)
 
 
 
